@@ -48,7 +48,7 @@ REACT_APP_FIREBASE_APP_ID=your-firebase-app-id
 REACT_APP_GOOGLE_MAPS_API_KEY=your-google-maps-api-key
 ```
 
-> **Note:** Never commit your `.env.local` file to version control.
+
 
 ### 4. Start the Development Server
 
